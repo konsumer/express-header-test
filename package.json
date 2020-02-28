@@ -1,0 +1,22 @@
+{
+  "name": "express-test",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "David Konsumer <konsumer@jetboystudio.com> (http://konsumer.js.org)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konsumer/express-header-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konsumer/express-header-test/issues"
+  },
+  "homepage": "https://github.com/konsumer/express-header-test#readme"
+}
